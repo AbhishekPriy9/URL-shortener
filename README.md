@@ -15,6 +15,10 @@
 
  -- run "php artisan test" to run the automated tests.
 
+## Note
+
+Setup the SMTP details in the .env file inside the root folder of the project before using it. I used gmail SMTP. all the keys are starting from MAIL_ in the env file.
+
 
 ## Requirement
 
